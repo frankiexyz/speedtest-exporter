@@ -1,2 +1,2 @@
 prometheus-client==0.0.19
-pyspeedtest==1.2.7
+speedtest-cli==2.0.2
